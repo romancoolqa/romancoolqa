@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I recently completed the **QA automation course, [Skillfactory](https://skillfactory.ru/)**
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [email](mailto:romancoolqa@gmail.com)
+- 📫 Reach me by [email](mailto:rrazumeev@gmail.com)
 - 🌍 I speak Russian and English
 
 ---
