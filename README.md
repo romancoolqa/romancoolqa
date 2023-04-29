@@ -4,19 +4,16 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/roman-razumeev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   <a href="https://t.me/raycom4">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+    <a href="https://t.me/raycom4">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </div>
 
 ### About me
-- 🌱 I recently completed the **QA automation course, [Skillfactory](https://skillfactory.ru/)**
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [email](mailto:rrazumeev@gmail.com)
-- 🌍 I speak Russian and English
+- 🌱 I have recently finished the QA automation course from [Skillfactory](https://skillfactory.ru/) school;
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1-XrCkia8Jeq8fXlhN3JNmfufI6aECqMb/edit?usp=sharing&ouid=102802765291179425980&rtpof=true&sd=true);
+- 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
+- 🌍 I speak Russian and English (B1).
 
 ---
 
@@ -25,6 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" title="pytest" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="JIRA" width="40" height="40"/>&nbsp;
