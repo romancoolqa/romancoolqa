@@ -11,7 +11,7 @@
 
 ### About me
 - 🌱 I have recently finished the QA automation course from [Skillfactory](https://skillfactory.ru/) school;
-- 📄 Know about my experiences from [resume](https://drive.google.com/file/d/11evAbQeWhx3EDtAJ8hHSZ-TQ8dG6RNzl/view?usp=share_link);
+- 📄 Know about my experiences from [resume](https://drive.google.com/file/d/13jFEzmtF1BDtGxisa9-3yNEgyJiurlKb/view?usp=sharing);
 - 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
 - 🌍 I speak Russian and English (B1).
 
