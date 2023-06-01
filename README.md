@@ -11,7 +11,7 @@
 
 ### About me
 - 🌱 I interest software testing and especially automatic. My skills are presented in the [repos](https://github.com/rrazumeev?tab=repositories);
-- 📄 Know about my experiences from [Resume](https://drive.google.com/file/d/1DJRzbLNsgMCh7HP8XRfFQBProc7Pc12z/view?usp=sharing);
+- 📄 Know about my experiences from the [resume](https://drive.google.com/file/d/1DJRzbLNsgMCh7HP8XRfFQBProc7Pc12z/view?usp=sharing);
 - 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
 - 🌍 I speak Russian and English (B1).
 
