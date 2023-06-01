@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🌱 I have recently finished the QA automation course from [Skillfactory](https://skillfactory.ru/) school;
+- 🌱 I interest software testing and especially automatic. My skills are presented in repos;
 - 📄 Know about my experiences from [resume](https://drive.google.com/file/d/1DJRzbLNsgMCh7HP8XRfFQBProc7Pc12z/view?usp=sharing);
 - 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
 - 🌍 I speak Russian and English (B1).
