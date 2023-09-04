@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🌱 I interest software testing and especially automatic. My skills are presented in the [repos](https://github.com/rrazumeev?tab=repositories);
+- 🌱 I interest software testing and especially automatic. My skills are presented in the [repositories](https://github.com/rrazumeev?tab=repositories);
 - 📄 Know about my experiences from my [resume](https://github.com/rrazumeev/rrazumeev/blob/main/resume_Roman_Razumeev.pdf);
 - 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
 - 🌍 I speak Russian and English (B1).
