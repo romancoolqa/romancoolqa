@@ -10,10 +10,11 @@
 </div>
 
 ### About me
-- 🌱 I interest software testing and especially automatic. My skills are presented in the [repositories](https://github.com/rrazumeev?tab=repositories);
+- 🌱 I interest in software testing;
+- 📄 My skills are presented in the [repositories](https://github.com/rrazumeev?tab=repositories);
 - 📄 Know about my experiences from my [resume](https://github.com/rrazumeev/rrazumeev/blob/main/resume_Roman_Razumeev.pdf);
 - 📫 Reach me by [email](mailto:rrazumeev@gmail.com);
-- 🌍 I speak Russian and English (B1).
+- 🌍 I speak Russian and English (B1/B2).
 
 ---
 
@@ -25,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="JIRA" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="VSCode" width="40" height="40"/>&nbsp;
 
 
 ### My stat
